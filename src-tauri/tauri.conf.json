@@ -31,5 +31,9 @@
             "icons/icon.icns",
             "icons/icon.ico"
         ]
+    },
+    "systemTray": {
+        "iconPath": "icons/tray.ico",
+        "menuOnClick": false
     }
 }
